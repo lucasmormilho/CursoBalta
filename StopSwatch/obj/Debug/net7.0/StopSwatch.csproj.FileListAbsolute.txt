@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\StopSwatch\bin\Debug\net7.0\StopSwatch.exe
+C:\Aulas\CursoBalta\StopSwatch\bin\Debug\net7.0\StopSwatch.deps.json
+C:\Aulas\CursoBalta\StopSwatch\bin\Debug\net7.0\StopSwatch.runtimeconfig.json
+C:\Aulas\CursoBalta\StopSwatch\bin\Debug\net7.0\StopSwatch.dll
+C:\Aulas\CursoBalta\StopSwatch\bin\Debug\net7.0\StopSwatch.pdb
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.AssemblyInfo.cs
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.dll
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\refint\StopSwatch.dll
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.pdb
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\StopSwatch.genruntimeconfig.cache
+C:\Aulas\CursoBalta\StopSwatch\obj\Debug\net7.0\ref\StopSwatch.dll
