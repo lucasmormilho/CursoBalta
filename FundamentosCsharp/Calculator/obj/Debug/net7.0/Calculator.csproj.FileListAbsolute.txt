@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Aulas\CursoBalta\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Aulas\CursoBalta\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Aulas\CursoBalta\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Aulas\CursoBalta\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Calculator\obj\Debug\net7.0\ref\Calculator.dll
