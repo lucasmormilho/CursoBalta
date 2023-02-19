@@ -8,5 +8,5 @@ double alcool = double.Parse(Console.ReadLine());
 double conta = alcool / gasolina * 100;
 System.Console.WriteLine(conta.ToString("F2") + "%");
 
-var mensagem = conta <= 65 ? "USE ALCOOL" : "USE GASOLINA";
+var mensagem = conta >= 65 ? "USE ALCOOL" : "USE GASOLINA";
 System.Console.WriteLine("Resultado: " + mensagem);
