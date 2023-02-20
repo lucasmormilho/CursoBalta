@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\bin\Debug\net7.0\Hello.exe
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\bin\Debug\net7.0\Hello.deps.json
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\bin\Debug\net7.0\Hello.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\bin\Debug\net7.0\Hello.pdb
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\refint\Hello.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.pdb
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Hello\obj\Debug\net7.0\ref\Hello.dll
