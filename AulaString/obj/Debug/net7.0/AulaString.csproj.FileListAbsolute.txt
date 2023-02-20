@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Balta\AulaString\bin\Debug\net7.0\AulaString.exe
+C:\Aulas\CursoBalta\Balta\AulaString\bin\Debug\net7.0\AulaString.deps.json
+C:\Aulas\CursoBalta\Balta\AulaString\bin\Debug\net7.0\AulaString.runtimeconfig.json
+C:\Aulas\CursoBalta\Balta\AulaString\bin\Debug\net7.0\AulaString.dll
+C:\Aulas\CursoBalta\Balta\AulaString\bin\Debug\net7.0\AulaString.pdb
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.dll
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\refint\AulaString.dll
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.pdb
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\AulaString.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Balta\AulaString\obj\Debug\net7.0\ref\AulaString.dll
