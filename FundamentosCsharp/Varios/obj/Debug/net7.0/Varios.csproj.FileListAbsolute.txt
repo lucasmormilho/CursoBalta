@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\bin\Debug\net7.0\Varios.exe
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\bin\Debug\net7.0\Varios.deps.json
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\bin\Debug\net7.0\Varios.runtimeconfig.json
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\bin\Debug\net7.0\Varios.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\bin\Debug\net7.0\Varios.pdb
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\refint\Varios.dll
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.pdb
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\Varios.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Balta\FundamentosCsharp\Varios\obj\Debug\net7.0\ref\Varios.dll
