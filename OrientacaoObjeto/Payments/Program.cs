@@ -3,32 +3,35 @@ class Program
 {
     static void Main(string[] args)
     {
-        //um objeto possui propriedades, metodos e eventos
-        //objeto sempre é um tipo referencia
-        //só armazena o endereço dos dados
-        //na memoria heap
-
-        //tipo valor é na memoria stack
-
-        //struct armazena o valor em si
-        //class só o endereço
-
         Console.WriteLine("Hello, World!");
 
         //conceito de herança
         var pagamentoBoleto = new PagamentoBoleto();
-        pagamentoBoleto.Pagar();
+        pagamentoBoleto.Pagar("123");
         System.Console.WriteLine(pagamentoBoleto.Vencimento);
         System.Console.WriteLine(pagamentoBoleto.NumeroBoleto);
 
         //polimorfismo
-        var pagamento = new Pagamento();
+        var pagamento = new Pagamento(); //new molda a variavel
         pagamento.ToString();
 
         pagamento.DataPagamento = DateTime.Now;
+
+        pagamentoBoleto.PagarComSobreEscrita("666");
+
+        //finalizar o pagamento
+        pagamento.Dispose();
+
+        //garantir o finalizar do metodo usando using
+        using (var pagamentoComUsing = new Pagamento())
+        {
+            System.Console.WriteLine("Processamendo pagamento");
+        }
+
     }
 
-    public class Pagamento
+    //usando a interface disposable para destuir o objeto
+    public class Pagamento : IDisposable
     {
         //1º pilar -- ENCAPSULAMENTO, AGRUPAR
         //2º pilar -- ABSTRAÇÃO (exempo ConsultarSaldoCartao)
@@ -61,10 +64,31 @@ class Program
 
 
         //metodo ou funções
-        public void Pagar()
+        public void Pagar(string numero)
         {
 
         }
+        //sobrecarga de metodo com mesmo nome porem com assinatura diferente
+        public void Pagar(string numero, DateTime vencimento, bool Pagamento = true)
+        {
+
+        }
+
+        //sobreescrita de metodo
+        public virtual void PagarComSobreEscrita(string numero)
+        {
+            System.Console.WriteLine("Pagar");
+        }
+
+        //metodo consultor
+        //garbage collerctor
+        //criar algo e destruir algo quando uma classe esta sendo construida
+        //Por exemplo desconectar do bd
+        public Pagamento()
+        {
+            System.Console.WriteLine("iniciando o pagamento");
+        }
+
         //metodo ou funções
         private void ConsultarSaldoCartao()
         {
@@ -81,7 +105,11 @@ class Program
             return Vencimento.ToString("dd/MM/yyyy");
         }
 
-
+        //interface para destruir o objeto
+        public void Dispose()
+        {
+            System.Console.WriteLine("Finalizando pagamento");
+        }
     }
     //herança
     class PagamentoBoleto : Pagamento
@@ -94,6 +122,12 @@ class Program
             //regra boleto
         }
 
+        //sobreescrita de metodo
+        public override void PagarComSobreEscrita(string numero)
+        {
+            base.PagarComSobreEscrita(numero); //metodo pai
+            System.Console.WriteLine("Pagar boleto"); //metodo sobreescrito
+        }
 
     }
     //herança
