@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\bin\Debug\net7.0\PaymentDelegates.exe
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\bin\Debug\net7.0\PaymentDelegates.deps.json
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\bin\Debug\net7.0\PaymentDelegates.runtimeconfig.json
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\bin\Debug\net7.0\PaymentDelegates.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\bin\Debug\net7.0\PaymentDelegates.pdb
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\refint\PaymentDelegates.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.pdb
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\PaymentDelegates.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentDelegates\obj\Debug\net7.0\ref\PaymentDelegates.dll

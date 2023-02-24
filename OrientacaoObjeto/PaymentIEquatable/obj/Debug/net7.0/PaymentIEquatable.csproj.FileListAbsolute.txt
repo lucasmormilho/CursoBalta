@@ -1,0 +1,15 @@
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\bin\Debug\net7.0\PaymentIEquatable.exe
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\bin\Debug\net7.0\PaymentIEquatable.deps.json
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\bin\Debug\net7.0\PaymentIEquatable.runtimeconfig.json
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\bin\Debug\net7.0\PaymentIEquatable.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\bin\Debug\net7.0\PaymentIEquatable.pdb
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.csproj.AssemblyReference.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.AssemblyInfoInputs.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.AssemblyInfo.cs
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.csproj.CoreCompileInputs.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\refint\PaymentIEquatable.dll
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.pdb
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\PaymentIEquatable.genruntimeconfig.cache
+C:\Aulas\CursoBalta\Balta\OrientacaoObjeto\PaymentIEquatable\obj\Debug\net7.0\ref\PaymentIEquatable.dll
