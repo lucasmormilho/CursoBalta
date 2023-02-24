@@ -1,0 +1,21 @@
+namespace Payment2;
+
+//CLASSES SELADAS
+//NÃO PERMITIR A POSSIBILIDADE DE EXTENDER A CLASSE
+class Program
+{
+    static void Main(string[] args)
+    {
+
+    }
+}
+
+//exemplo de sealed
+//não podera ser herdada
+public sealed class Pagamento
+{
+    public DateTime Vencimento { get; set; }
+}
+
+//Estudar Flunt
+

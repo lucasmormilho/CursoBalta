@@ -1,0 +1,25 @@
+namespace Payment2;
+
+//CLASSES STATIC
+class Program
+{
+    static void Main(string[] args)
+    {
+        Pagamento.Vencimento = DateTime.Now;
+    }
+}
+
+//classe static não pode ser instanciada
+public static class Pagamento
+{
+    //propriedade precisa ser static tbm
+    public static DateTime Vencimento { get; set; }
+}
+
+//vantagens de usar static
+//algo que vai ser usado na aplicação toda
+//exemplo propriedades da aplicação
+public static class Settings
+{
+    public static string? API_URL { get; set; }
+}

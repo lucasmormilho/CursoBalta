@@ -1,0 +1,14 @@
+namespace Payment2;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var payment = new Payment();
+        payment.PropriedadeB = 0;
+        payment.Propriedade = 1;
+        System.Console.WriteLine(payment.Propriedade);
+
+    }
+}
+
