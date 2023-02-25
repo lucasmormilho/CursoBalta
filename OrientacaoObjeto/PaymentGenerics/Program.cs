@@ -15,7 +15,7 @@ class Program
         //context.Save(person);
 
         //pode se usar varios tipos genericos no mesmo dataContext
-        var contextVarios = new DataContext<Person, Payment, Subscription>();
+        var contextVarios = new DataContext<IPerson, Payment, Subscription>();
         contextVarios.Save(person);
         contextVarios.Save(payment);
         contextVarios.Save(subscription);
@@ -31,6 +31,10 @@ class Program
 //normalmente usa uma letra só
 
 public class DataContext<X, Y, Z>
+    //limitar o uso dos generics
+    where X : IPerson
+    where Y : Payment
+    where Z : Subscription
 {
     public void Save(X entity)
     {
@@ -43,6 +47,8 @@ public class DataContext<X, Y, Z>
     }
 }
 
-public class Person { }
+public interface IPerson { };
+
+public class Person : IPerson { }
 public class Payment { }
 public class Subscription { }
