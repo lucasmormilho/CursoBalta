@@ -1,33 +1,18 @@
+using Balta.ContentContext.Enums;
+
 namespace Balta.ContentContext
 {
     public class Course : Content
     {
         //inicializar para não gerar erro
-        public Course()
+        public Course(string title, string url)
+            : base(title, url) //passando para classe pai
         {
             Modules = new List<Module>();
         }
         public string Tag { get; set; }
         public IList<Module> Modules { get; set; }
-    }
-
-    public class Module
-    {
-        //inicializar para não gerar erro
-        public Module()
-        {
-            Lectures = new List<Lecture>();
-        }
-
-        public int Order { get; set; }
-        public string title { get; set; }
-        public IList<Lecture> Lectures { get; set; }
-
-    }
-
-    public class Lecture
-    {
-        public int Order { get; set; }
-        public int Title { get; set; }
+        public int DurationInMinutes { get; set; }
+        public EContentLevel Level { get; set; }
     }
 }

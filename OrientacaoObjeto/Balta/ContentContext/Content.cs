@@ -5,9 +5,11 @@ namespace Balta.ContentContext
     public abstract class Content
     {
         //gerar id automaticamente
-        public Content()
+        public Content(string title, string url)
         {
             Id = Guid.NewGuid(); //SPOF
+            Title = title;
+            Url = url;
         }
 
         public Guid Id { get; set; }
