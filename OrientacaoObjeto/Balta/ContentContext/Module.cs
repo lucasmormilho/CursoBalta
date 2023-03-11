@@ -1,6 +1,8 @@
+using Balta.SharedContext;
+
 namespace Balta.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         //inicializar para não gerar erro
         public Module()

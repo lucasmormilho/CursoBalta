@@ -1,9 +1,14 @@
 ﻿using System.Linq;
 using Balta.ContentContext;
+using Balta.SubscriptionContext;
 
 namespace Balta;
 class Program
 {
+    //pacote flunt do balta
+    //https://github.com/andrebaltieri/Flunt
+    //dotnet add package flunt
+
     static void Main(string[] args)
     {
         //nova lista de artigos
@@ -28,10 +33,12 @@ class Program
         courses.Add(courseCsharp);
         courses.Add(courseAspNet);
 
+
+
         //nova carreira
         var careers = new List<Carreer>();
         var careerDotNet = new Carreer("Especialista .NET", "especialista-dotnet");
-        var careeritem2 = new CarreerItem(2, "Aprenda OOP", "", courseOop);
+        var careeritem2 = new CarreerItem(2, "Aprenda OOP", "", null);
         var careeritem = new CarreerItem(1, "Comece por aqui", "", courseCsharp);
         var careeritem3 = new CarreerItem(3, "Aprenda .NET", "", courseAspNet);
         careerDotNet.Items.Add(careeritem2);
@@ -44,10 +51,19 @@ class Program
             foreach (var item in career.Items.OrderBy(x => x.Order))
             {
                 System.Console.WriteLine($"{item.Order} - {item.Title}");
-                System.Console.WriteLine(item.Course.Title);
-                System.Console.WriteLine(item.Course.Level);
+                System.Console.WriteLine(item.Course?.Title);
+                System.Console.WriteLine(item.Course?.Level);
 
+                foreach (var notification in item.Notifications)
+                {
+                    System.Console.WriteLine($"{notification.Property} - {notification.Message}");
+                }
             }
+
+            //criar uma assinatura para o aluno
+            var payPalSubscription = new PayPalSubscription();
+            var student = new Student();
+            student.CreateSubscription(payPalSubscription);
         }
 
     }

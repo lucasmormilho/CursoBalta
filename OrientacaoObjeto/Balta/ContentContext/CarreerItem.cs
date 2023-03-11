@@ -1,3 +1,6 @@
+using Balta.NotificationContext;
+using Balta.SharedContext;
+
 namespace Balta.ContentContext
 {
 
@@ -5,8 +8,9 @@ namespace Balta.ContentContext
     //pois não sabemos a ordem dos curso
     //ordem de crescimento
 
-    public class CarreerItem
+    public class CarreerItem : Base
     {
+
         //construtor
         public CarreerItem
         (
@@ -17,7 +21,7 @@ namespace Balta.ContentContext
         {
             if (course == null)
             {
-                throw new Exception("o curso não pode ser nulo");
+                AddNotificarion(new Notification("Course", "Curso inválido"));
             }
             Order = order;
             Title = title;

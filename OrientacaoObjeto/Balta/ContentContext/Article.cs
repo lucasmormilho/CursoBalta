@@ -1,3 +1,5 @@
+
+
 namespace Balta.ContentContext
 {
     //Classe vazia que apenas deriva de outra
