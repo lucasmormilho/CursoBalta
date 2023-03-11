@@ -41,3 +41,4 @@ C:\Aulas\CursoBalta\Balta\AcessoDados\BaltaDataAccess\obj\Debug\net7.0\refint\Ba
 C:\Aulas\CursoBalta\Balta\AcessoDados\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.pdb
 C:\Aulas\CursoBalta\Balta\AcessoDados\BaltaDataAccess\obj\Debug\net7.0\BaltaDataAccess.genruntimeconfig.cache
 C:\Aulas\CursoBalta\Balta\AcessoDados\BaltaDataAccess\obj\Debug\net7.0\ref\BaltaDataAccess.dll
+C:\Aulas\CursoBalta\Balta\AcessoDados\BaltaDataAccess\bin\Debug\net7.0\Dapper.dll
